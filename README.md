@@ -5,7 +5,7 @@
 ### 👨‍💻 About Me
 * 🎓 Studying **Computer Science (Specializing in AI)** at Taylor's University.
 * 💡 Passionate about innovating technology to create unique, impactful experiences for people.
-* ⚙️ I love building complete systems—bridging the gap between pure software, mechanics, and electronics.
+* ⚙️ I write code, but I love taking it off the screen by integrating it with hardware.
 * 🌱 **My engineering philosophy:** Build things, break them, and learn from every mistake.
 
 <br clear="both">
