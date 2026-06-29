@@ -13,7 +13,7 @@
 ---
 
 <div align="center">
-  <img src="fish-tank.gif" alt="Fish Tank" width="100%">
+  <img src="room.gif" alt="Room" width="100%">
 </div>
 
 <br>
