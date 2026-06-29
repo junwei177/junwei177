@@ -1,6 +1,6 @@
 # Hi there, I'm Jun Wei 👋
 
-<img align="right" src="pet.gif" alt="My Virtual Pet" width="200">
+<img align="right" src="pet.gif" alt="My Virtual Pet" width="170">
 
 ### 👨‍💻 About Me
 * 🎓 Studying **Computer Science (Specializing in AI)** at Taylor's University.
