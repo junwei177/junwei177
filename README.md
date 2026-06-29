@@ -1,7 +1,6 @@
 # Hi there, I'm Jun Wei 👋
 
-<!-- This pushes the pet GIF to the right side -->
-<img align="right" src="pet.gif" alt="My Virtual Pet" width="250">
+<img align="right" src="pet.gif" alt="My Virtual Pet" width="200">
 
 ### 👨‍💻 About Me
 * 🎓 Studying **Computer Science (Specializing in AI)** at Taylor's University.
@@ -9,12 +8,10 @@
 * ⚙️ I love building complete systems—bridging the gap between pure software, mechanics, and electronics.
 * 🌱 **My engineering philosophy:** Build things, break them, and learn from every mistake.
 
-<!-- This invisible break ensures the Fish Tank drops below the About Me section cleanly -->
 <br clear="both">
 
 ---
 
-<!-- Centered Fish Tank spanning the width -->
 <div align="center">
   <img src="fish-tank.gif" alt="Fish Tank" width="100%">
 </div>
