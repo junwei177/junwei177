@@ -1,13 +1,41 @@
 # Hi there, I'm Jun Wei 👋
 
-### 👨‍💻 About Me
-* 🎓 Studying **Computer Science (Specializing in AI)** at Taylor's University.
-* 💡 Passionate about innovating technology to create unique, impactful experiences for people.
-* ⚙️ I love building complete systems—bridging the gap between pure software, mechanics, and electronics.
-* 🌱 **My engineering philosophy:** Build things, break them, and learn from every mistake.
+<!-- 7/5 Grid Layout for About Me and Pet GIF -->
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+  <tr>
+    <!-- 7/12 Column: About Me Text -->
+    <td width="58%" valign="top">
+      <h3>👨‍💻 About Me</h3>
+      <ul>
+        <li>🎓 Studying <b>Computer Science (Specializing in AI)</b> at Taylor's University.</li>
+        <li>💡 Passionate about innovating technology to create unique, impactful experiences for people.</li>
+        <li>⚙️ I love building complete systems—bridging the gap between pure software, mechanics, and electronics.</li>
+        <li>🌱 <b>My engineering philosophy:</b> Build things, break them, and learn from every mistake.</li>
+      </ul>
+    </td>
+    
+    <!-- 5/12 Column: Pet GIF with Border -->
+    <td width="42%" valign="middle" align="center">
+      <h3>My Virtual Companion</h3>
+      <!-- Border Style applied via inline HTML style -->
+      <img src="invoker.gif" alt="Pet" width="220" style="border: 4px solid #F05032; border-radius: 10px; box-shadow: 0px 4px 8px rgba(0,0,0,0.5);">
+    </td>
+  </tr>
+</table>
 
-<img src="fish-tank.gif" alt="Fish Tank">
-<img src="pet.gif" alt="Pet">
+<br>
+
+<!-- Fish Tank GIF placed in a simple 1x1 table for a clean full-width border -->
+<h3>🐠 The Fish Tank</h3>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+  <tr>
+    <td align="center">
+      <img src="fish-tank.gif" alt="Fish Tank" width="100%" style="border: 4px solid #00979D; border-radius: 10px;">
+    </td>
+  </tr>
+</table>
+
+<br>
 
 ### 🛠️ Tech Stack & Tools
 
