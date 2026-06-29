@@ -6,6 +6,9 @@
 * ⚙️ I love building complete systems—bridging the gap between pure software, mechanics, and electronics.
 * 🌱 **My engineering philosophy:** Build things, break them, and learn from every mistake.
 
+<img src="fish-tank.gif" alt="Fish Tank">
+<img src="pet.gif" alt="Pet">
+
 ### 🛠️ Tech Stack & Tools
 
 **Core Languages**
