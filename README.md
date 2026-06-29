@@ -12,12 +12,6 @@
 
 ---
 
-<div align="center">
-  <img src="room.gif" alt="Room" width="100%">
-</div>
-
-<br>
-
 ### 🛠️ Tech Stack & Tools
 
 **Core Languages**
@@ -49,3 +43,7 @@
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 </p>
+
+<div align="center">
+  <img src="room.gif" alt="Room" width="100%">
+</div>
