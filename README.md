@@ -43,5 +43,5 @@
 </p>
 
 <div align="center">
-  <img src="room.gif" alt="Room" width="100%">
+  <img src="room-night.gif" alt="Room" width="100%">
 </div>
