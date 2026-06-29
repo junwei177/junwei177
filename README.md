@@ -8,8 +8,6 @@
 * ⚙️ I write code, but I love taking it off the screen by integrating it with hardware.
 * 🌱 **My engineering philosophy:** Build things, break them, and learn from every mistake.
 
-<br clear="both">
-
 ---
 
 ### 🛠️ Tech Stack & Tools
